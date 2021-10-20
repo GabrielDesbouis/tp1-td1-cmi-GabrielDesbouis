@@ -12,6 +12,14 @@ public class Enseignant extends Personnel {
     public Enseignant() {
     }
 
+    /**
+     * 
+     */
+    public void Nom;
 
+    /**
+     * 
+     */
+    public void Matière;
 
 }

@@ -4,12 +4,12 @@ import java.util.*;
 /**
  * 
  */
-public class CO extends Personnel {
+public abstract class Personnel {
 
     /**
      * Default constructor
      */
-    public CO() {
+    public Personnel() {
     }
 
 

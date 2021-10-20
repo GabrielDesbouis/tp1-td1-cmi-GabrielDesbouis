@@ -12,6 +12,15 @@ public class Eleve {
     public Eleve() {
     }
 
+    /**
+     * 
+     */
+    public void Nom;
+
+
+
+
+
 
 
 

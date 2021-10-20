@@ -4,13 +4,15 @@ import java.util.*;
 /**
  * 
  */
-public class CO extends Personnel {
+public class Annee_de_scolarite {
 
     /**
      * Default constructor
      */
-    public CO() {
+    public Annee_de_scolarite() {
     }
+
+
 
 
 }

@@ -4,13 +4,14 @@ import java.util.*;
 /**
  * 
  */
-public class CO extends Personnel {
+public class Grec {
 
     /**
      * Default constructor
      */
-    public CO() {
+    public Grec() {
     }
+
 
 
 }
